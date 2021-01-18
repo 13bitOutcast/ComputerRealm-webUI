@@ -1,0 +1,579 @@
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__1 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#BG {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Button1 {
+		position: absolute;
+		width: 144px;
+		height: 70px;
+		left: 1723px;
+		top: 38px;
+		overflow: visible;
+		cursor: pointer;
+	}
+	#Rectangle_1 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Join_Us {
+		left: 28px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Nav_bar {
+		position: absolute;
+		width: 517px;
+		height: 37px;
+		left: 303px;
+		top: 71px;
+		overflow: visible;
+	}
+	#Products {
+		left: 115px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 109px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Home {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Services {
+		left: 263px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#About_Us {
+		left: 402px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Logo_Retro {
+		position: absolute;
+		width: 155px;
+		height: 102px;
+		left: 73px;
+		top: 38px;
+		overflow: visible;
+	}
+	#product_tabs {
+		position: absolute;
+		width: 1140px;
+		height: 735px;
+		left: 50px;
+		top: 296px;
+		overflow: visible;
+	}
+	#ROG_6900xt {
+		position: absolute;
+		width: 330px;
+		height: 330px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#XPG {
+		position: absolute;
+		width: 330px;
+		height: 330px;
+		left: 0px;
+		top: 405px;
+		overflow: visible;
+	}
+	#Corsair {
+		position: absolute;
+		width: 330px;
+		height: 330px;
+		left: 405px;
+		top: 405px;
+		overflow: visible;
+	}
+	#g502 {
+		position: absolute;
+		width: 330px;
+		height: 330px;
+		left: 810px;
+		top: 405px;
+		overflow: visible;
+	}
+	#MSI {
+		position: absolute;
+		width: 330px;
+		height: 330px;
+		left: 405px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ryzen {
+		position: absolute;
+		width: 330px;
+		height: 330px;
+		left: 810px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_8 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_8 {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 66px;
+		left: 0px;
+		top: 264px;
+	}
+	#Rectangle_9 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 66px;
+		left: 405px;
+		top: 264px;
+	}
+	#Rectangle_10 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 66px;
+		left: 810px;
+		top: 264px;
+	}
+	#Rectangle_11 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 66px;
+		left: 0px;
+		top: 669px;
+	}
+	#Rectangle_12 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 66px;
+		left: 405px;
+		top: 669px;
+	}
+	#Rectangle_13 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 66px;
+		left: 810px;
+		top: 669px;
+	}
+	#Product_Names {
+		position: absolute;
+		width: 1033px;
+		height: 837px;
+		left: 50px;
+		top: 178px;
+		overflow: visible;
+	}
+	#Products_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 242px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 58px;
+		color: rgba(112,112,112,1);
+	}
+	#ASUS {
+		left: 129px;
+		top: 393px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#XPG_ {
+		left: 136px;
+		top: 800px;
+		position: absolute;
+		overflow: visible;
+		width: 52px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Corsair_ {
+		left: 527px;
+		top: 800px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Logitech {
+		left: 927px;
+		top: 800px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#MSI_ {
+		left: 546px;
+		top: 393px;
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Ryzen_ba {
+		left: 943px;
+		top: 393px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(112,112,112,1);
+		cursor: pointer;
+	}
+	#Products_List {
+		position: absolute;
+		width: 218px;
+		height: 550px;
+		left: 1383px;
+		top: 322px;
+		overflow: visible;
+	}
+	#Processors {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Motherboards {
+		left: 0px;
+		top: 57px;
+		position: absolute;
+		overflow: visible;
+		width: 177px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Graphics_Card {
+		left: 0px;
+		top: 114px;
+		position: absolute;
+		overflow: visible;
+		width: 174px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Memory_Modules {
+		left: 0px;
+		top: 171px;
+		position: absolute;
+		overflow: visible;
+		width: 219px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Storage {
+		left: 0px;
+		top: 228px;
+		position: absolute;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Power_Supply {
+		left: 0px;
+		top: 285px;
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Cooling_Solutions {
+		left: 0px;
+		top: 342px;
+		position: absolute;
+		overflow: visible;
+		width: 219px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Chasis {
+		left: 0px;
+		top: 399px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Monitors {
+		left: 0px;
+		top: 456px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
+	#Peripherals {
+		left: 0px;
+		top: 513px;
+		position: absolute;
+		overflow: visible;
+		width: 136px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+		cursor: pointer;
+	}
